@@ -14,8 +14,6 @@ The assembled switch can be ordered by uploading the files under `fabrication` t
 * Assembly side = Top side
 * Tooling holes = Added by Customer
 
-__Make sure to UNCHECK the row labeled `H1,H2` when reviewing the BOM, else your switches will come with header pins where the connectors are to be soldered.__
-
 For soldering, there are decent labels on the bottom of the PCB for input/output and polarity. The space on top was extremely limited. For both input and output the GND connection is on the "inside" and the power connection is on the "outside"
 
 ## Operation
