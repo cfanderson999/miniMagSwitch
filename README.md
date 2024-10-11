@@ -6,7 +6,7 @@ Designed to be assembled entirely by JLCPCB with only the connectors of your cho
 
 ## Ordering & Assembly
 
-The assembled switch can be ordered by uploading the files under `fabrication` to JLCPCB. The `miniMagSwitch.zip` contains the PCB files which are uploaded first, then the `miniMagSwitchBom.xlsx` and `miniMagSwitchCentroid.xlsx` files are uploaded for assembly. Use the following settings when ordering:
+The assembled switch can be ordered by uploading the files under `fabrication` to JLCPCB. The `miniMagSwitch.zip` contains the PCB files which are uploaded first, then the `miniMagSwitchBom.csv` and `miniMagSwitchCentroid.csv` files are uploaded for assembly. Use the following settings when ordering:
 
 * Vias = Tented
 * Remove order number = Remove Mark
