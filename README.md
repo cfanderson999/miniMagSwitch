@@ -24,4 +24,8 @@ A basic diagram for mounting can be found in `mounting.pdf`. The holes are made 
 
 I give no guarantees with respect to the operation. There is reverse polarity protection on the input side, though testing it is probably best avoided. It (should) operate fine with 1-4s lipos, maybe higher, not sure.
 
-I have tested the switch with a ~50% charged 1s LiPo and was able to set off a ematch using a StratologgerCF. No flight testing has been conducted as of 10/9/24.
+Testing performed as of 11/27/2024:
+
+* StratologgerCF ground ematch pop test using ~50% charged 1s LiPo
+* Elvin beacon worked
+* Featherweight tracker worked
